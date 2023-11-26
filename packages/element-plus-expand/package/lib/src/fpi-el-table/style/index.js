@@ -1,0 +1,1 @@
+require("./index.css");require("element-plus/lib/components/table/style/css");require("element-plus/lib/components/table-column/style/css");require("element-plus/lib/components/loading/style/css");require("element-plus/lib/components/scrollbar/style/css");require("element-plus/lib/components/pagination/style/css");

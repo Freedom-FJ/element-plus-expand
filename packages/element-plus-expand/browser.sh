@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "正在执行阿里云代理脚本。"
+# 如果在 macOS 上，请使用 open 命令
+if [[ $(uname) == "Darwin" ]]; then
+  open "https://npmmirror.com/sync/@ued_fpi/element-plus-expand"
+
+# 如果在 Linux 上，请使用 xdg-open 命令
+elif [[ $(uname) == "Linux" ]]; then
+  xdg-open "https://npmmirror.com/sync/@ued_fpi/element-plus-expand"
+
+# 如果没有上述操作系统，则给出错误消息
+else
+  echo "抱歉，此脚本仅适用于 macOS 和 Linux。"
+  exit 1
+fi
+
+exit 0

@@ -1,0 +1,413 @@
+{
+    "/page/component/screen": [
+        {
+            "text": "快速开始",
+            "link": "/page/component/screen/quickstart"
+        },
+        {
+            "text": "快速开始（npm）",
+            "link": "/page/component/screen/npmInstall"
+        },
+        
+        {
+            "text": "开发须知",
+            "link": "/page/component/screen/develop"
+        },
+        {
+            "text": "示例网站",
+            "link": "http://ued.fpi-inc.site/data-visual-demo"
+        },
+        {
+            "text": "流程图",
+            "link": "/page/component/screen/flowChart"
+        },
+        {
+            "text": "园区组件",
+            "collapsed": true,
+            "items": [
+                {
+                    "text": "AccessVehicleManage",
+                    "link": "/page/component/screen/ipes/AccessVehicleManage"
+                },
+                {
+                    "text": "AirPollutionDischarge",
+                    "link": "/page/component/screen/ipes/AirPollutionDischarge"
+                },
+                {
+                    "text": "AirQuality",
+                    "link": "/page/component/screen/ipes/AirQuality"
+                },
+                {
+                    "text": "AirQualityManagement",
+                    "link": "/page/component/screen/ipes/AirQualityManagement"
+                },
+                {
+                    "text": "AirQualityStandard",
+                    "link": "/page/component/screen/ipes/AirQualityStandard"
+                },
+                {
+                    "text": "AlarmManage",
+                    "link": "/page/component/screen/ipes/AlarmManage"
+                },
+                {
+                    "text": "BusinessManage",
+                    "link": "/page/component/screen/ipes/BusinessManage"
+                },
+                {
+                    "text": "EmergencyDuty",
+                    "link": "/page/component/screen/ipes/EmergencyDuty"
+                },
+                {
+                    "text": "EmergencyManage",
+                    "link": "/page/component/screen/ipes/EmergencyManage"
+                },
+                {
+                    "text": "EmergencyResources",
+                    "link": "/page/component/screen/ipes/EmergencyResources"
+                },
+                {
+                    "text": "EnterpriseProtectionCode",
+                    "link": "/page/component/screen/ipes/EnterpriseProtectionCode"
+                },
+                {
+                    "text": "EnvironmentalProtection",
+                    "link": "/page/component/screen/ipes/EnvironmentalProtection"
+                },
+                {
+                    "text": "EnvironmentalRiskManagement",
+                    "link": "/page/component/screen/ipes/EnvironmentalRiskManagement"
+                },
+                {
+                    "text": "GasControl",
+                    "link": "/page/component/screen/ipes/GasControl"
+                },
+                {
+                    "text": "GeneralManagement",
+                    "link": "/page/component/screen/ipes/GeneralManagement"
+                },
+                {
+                    "text": "HarmfulMonitoring",
+                    "link": "/page/component/screen/ipes/HarmfulMonitoring"
+                },
+                {
+                    "text": "HazardousVehicleManage",
+                    "link": "/page/component/screen/ipes/HazardousVehicleManage"
+                },
+                {
+                    "text": "InspectionManage",
+                    "link": "/page/component/screen/ipes/InspectionManage"
+                },
+                {
+                    "text": "KeyProblemEnterprises",
+                    "link": "/page/component/screen/ipes/KeyProblemEnterprises"
+                },
+                {
+                    "text": "Level3AirDefense",
+                    "link": "/page/component/screen/ipes/Level3AirDefense"
+                },
+                {
+                    "text": "OdorControl",
+                    "link": "/page/component/screen/ipes/OdorControl"
+                },
+                {
+                    "text": "PollutantSourceManage",
+                    "link": "/page/component/screen/ipes/PollutantSourceManage"
+                },
+                {
+                    "text": "StreetLightingManagement",
+                    "link": "/page/component/screen/ipes/StreetLightingManagement"
+                },
+                {
+                    "text": "SealingManage",
+                    "link": "/page/component/screen/ipes/SealingManage"
+                },
+                
+                {
+                    "text": "TaskDispose",
+                    "link": "/page/component/screen/ipes/TaskDispose"
+                },
+                {
+                    "text": "VocStatistics",
+                    "link": "/page/component/screen/ipes/VocStatistics"
+                },
+                {
+                    "text": "WaterNetworkManage",
+                    "link": "/page/component/screen/ipes/WaterNetworkManage"
+                }
+            ]
+        },
+        {
+            "text": "大气组件",
+            "collapsed": true,
+            "items": [
+                {
+                    "text": "AirQualityCalendar",
+                    "link": "/page/component/screen/aims/AirQualityCalendar"
+                },
+                {
+                    "text": "AirQualityLevelMonthRatio",
+                    "link": "/page/component/screen/aims/AirQualityLevelMonthRatio"
+                },
+                {
+                    "text": "AirQualityLevelYearRatio",
+                    "link": "/page/component/screen/aims/AirQualityLevelYearRatio"
+                },
+                {
+                    "text": "AirQualityLevelYearRatio2",
+                    "link": "/page/component/screen/aims/AirQualityLevelYearRatio2"
+                },
+                {
+                    "text": "AirQualityPresentSituation",
+                    "link": "/page/component/screen/aims/AirQualityPresentSituation"
+                },
+                {
+                    "text": "AirQualityRealTime",
+                    "link": "/page/component/screen/aims/AirQualityRealTime"
+                },
+                {
+                    "text": "AirQualityRealTimeAndDay",
+                    "link": "/page/component/screen/aims/AirQualityRealTimeAndDay"
+                },
+                {
+                    "text": "AirTimeSeriesAnalysis",
+                    "link": "/page/component/screen/aims/AirTimeSeriesAnalysis"
+                },
+                {
+                    "text": "CieqContributionAnalysis",
+                    "link": "/page/component/screen/aims/CieqContributionAnalysis"
+                },
+                
+                {
+                    "text": "CieqContributionMonthRatio",
+                    "link": "/page/component/screen/aims/CieqContributionMonthRatio"
+                },
+                {
+                    "text": "CieqContributionYearRatio",
+                    "link": "/page/component/screen/aims/CieqContributionYearRatio"
+                },
+                {
+                    "text": "EnvChangeTrends",
+                    "link": "/page/component/screen/aims/EnvChangeTrends"
+                },
+                {
+                    "text": "EnvironmentMonitor",
+                    "link": "/page/component/screen/aims/EnvironmentMonitor"
+                },
+                
+                
+                
+                {
+                    "text": "FactorRealTimeRankChart",
+                    "link": "/page/component/screen/aims/FactorRealTimeRankChart"
+                },
+                
+                {
+                    "text": "FactorRealTimeRankList",
+                    "link": "/page/component/screen/aims/FactorRealTimeRankList"
+                },
+                {
+                    "text": "FactorTargetYearPeriod",
+                    "link": "/page/component/screen/aims/FactorTargetYearPeriod"
+                },
+                {
+                    "text": "MainPollutionMonthRatio",
+                    "link": "/page/component/screen/aims/MainPollutionMonthRatio"
+                },
+                {
+                    "text": "MainPollutionYearRatio",
+                    "link": "/page/component/screen/aims/MainPollutionYearRatio"
+                },
+                {
+                    "text": "MainPollutionYearRatio2",
+                    "link": "/page/component/screen/aims/MainPollutionYearRatio2"
+                },
+                
+                {
+                    "text": "MainPollutionYearRatioList",
+                    "link": "/page/component/screen/aims/MainPollutionYearRatioList"
+                },
+                {
+                    "text": "MulGridAirQualityLevelMonthRatio",
+                    "link": "/page/component/screen/aims/MulGridAirQualityLevelMonthRatio"
+                },
+                {
+                    "text": "MulGridCieqContributionMonthRatio",
+                    "link": "/page/component/screen/aims/MulGridCieqContributionMonthRatio"
+                },
+                {
+                    "text": "PollutionSourceAnalysis",
+                    "link": "/page/component/screen/aims/PollutionSourceAnalysis"
+                },
+                {
+                    "text": "PollutionSourceMonitor",
+                    "link": "/page/component/screen/aims/PollutionSourceMonitor"
+                },
+                {
+                    "text": "TargetAssessment",
+                    "link": "/page/component/screen/aims/TargetAssessment"
+                },
+                {
+                    "text": "TbHbAnalysis",
+                    "link": "/page/component/screen/aims/TbHbAnalysis"
+                },
+                {
+                    "text": "WeatherCondition",
+                    "link": "/page/component/screen/aims/WeatherCondition"
+                }
+            ]
+        },
+        {
+            "text": "水产品组件",
+            "collapsed": true,
+            "items": [
+                {
+                    "text": "AuxiliaryJudgment",
+                    "link": "/page/component/screen/wgms/AuxiliaryJudgment"
+                },
+                {
+                    "text": "ChangesAlongTheProcess",
+                    "link": "/page/component/screen/wgms/ChangesAlongTheProcess"
+                },
+                {
+                    "text": "ChlorophyllAchangeRate",
+                    "link": "/page/component/screen/wgms/ChlorophyllAchangeRate"
+                },
+                {
+                    "text": "CrossSectionCorrelation",
+                    "link": "/page/component/screen/wgms/CrossSectionCorrelation"
+                },
+                {
+                    "text": "DistributionOfWaterQualityLevels",
+                    "link": "/page/component/screen/wgms/DistributionOfWaterQualityLevels"
+                },
+                {
+                    "text": "DistributionPoints",
+                    "link": "/page/component/screen/wgms/DistributionPoints"
+                },
+                {
+                    "text": "DrinkingWaterComplianceRate",
+                    "link": "/page/component/screen/wgms/DrinkingWaterComplianceRate"
+                },
+                {
+                    "text": "EnvironmentalAnalysis",
+                    "link": "/page/component/screen/wgms/EnvironmentalAnalysis"
+                },
+                {
+                    "text": "FactorTopThreeRanking",
+                    "link": "/page/component/screen/wgms/FactorTopThreeRanking"
+                },
+                {
+                    "text": "FactorTrendComparison",
+                    "link": "/page/component/screen/wgms/FactorTrendComparison"
+                },
+                {
+                    "text": "KeyRiverWaterQualityEvaluation",
+                    "link": "/page/component/screen/wgms/KeyRiverWaterQualityEvaluation"
+                },
+                {
+                    "text": "LakeRiverIndex",
+                    "link": "/page/component/screen/wgms/LakeRiverIndex"
+                },
+                {
+                    "text": "NPTrendChange",
+                    "link": "/page/component/screen/wgms/NPTrendChange"
+                },
+                {
+                    "text": "PollutionSourceControl",
+                    "link": "/page/component/screen/wgms/PollutionSourceControl"
+                },
+                {
+                    "text": "RegionalQualityAnalysis",
+                    "link": "/page/component/screen/wgms/RegionalQualityAnalysis"
+                },
+                {
+                    "text": "SevenDayKline",
+                    "link": "/page/component/screen/wgms/SevenDayKline"
+                },
+                {
+                    "text": "SewageOutletsOnlineMonitor",
+                    "link": "/page/component/screen/wgms/SewageOutletsOnlineMonitor"
+                },
+                {
+                    "text": "SourceMonitoring",
+                    "link": "/page/component/screen/wgms/SourceMonitoring"
+                },
+                {
+                    "text": "StationWaterQualityStatistics",
+                    "link": "/page/component/screen/wgms/StationWaterQualityStatistics"
+                },
+                {
+                    "text": "SubordinateRanking",
+                    "link": "/page/component/screen/wgms/SubordinateRanking"
+                },
+                {
+                    "text": "SurroundingPollution",
+                    "link": "/page/component/screen/wgms/SurroundingPollution"
+                },
+
+                {
+                    "text": "UpstreamImpact",
+                    "link": "/page/component/screen/wgms/UpstreamImpact"
+                },
+                {
+                    "text": "UpstreamSection",
+                    "link": "/page/component/screen/wgms/UpstreamSection"
+                },
+                {
+                    "text": "WaterEnvironmentOnlineMonitor",
+                    "link": "/page/component/screen/wgms/WaterEnvironmentOnlineMonitor"
+                },
+                {
+                    "text": "WaterQualityClassification",
+                    "link": "/page/component/screen/wgms/WaterQualityClassification"
+                },
+                {
+                    "text": "WaterQualityRainfall",
+                    "link": "/page/component/screen/wgms/WaterQualityRainfall"
+                },
+                {
+                    "text": "WaterQualityRegionalComprehensive",
+                    "link": "/page/component/screen/wgms/WaterQualityRegionalComprehensive"
+                },
+                {
+                    "text": "WaterQualitySituation",
+                    "link": "/page/component/screen/wgms/WaterQualitySituation"
+                },
+                {
+                    "text": "WaterQualityStatesAnalysis",
+                    "link": "/page/component/screen/wgms/WaterQualityStatesAnalysis"
+                },
+                {
+                    "text": "WaterQualityStatus",
+                    "link": "/page/component/screen/wgms/WaterQualityStatus"
+                }
+            ]
+        },
+        {
+            "text": "中台组件",
+            "collapsed": true,
+            "items": [
+                {
+                    "text": "AlgaeMonitoring",
+                    "link": "/page/component/screen/bmp/AlgaeMonitoring"
+                },
+                {
+                    "text": "EarlyWarningEvent",
+                    "link": "/page/component/screen/bmp/EarlyWarningEvent"
+                },
+                {
+                    "text": "EventList",
+                    "link": "/page/component/screen/bmp/EventList"
+                },
+                {
+                    "text": "ReportEvent",
+                    "link": "/page/component/screen/bmp/ReportEvent"
+                }
+            ]
+        },
+        {
+            "text": "提交日志",
+            "link":"/page/component/screen/changelog"
+        }
+    ]
+}

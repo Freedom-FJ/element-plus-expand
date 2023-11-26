@@ -1,0 +1,81 @@
+{
+    "/page/team/water": [
+        {
+            "text": "开发规范",
+            "items": [
+                {
+                    "text": "命名规范",
+                    "link": "/page/team/water/specifications/name"
+                },
+                {
+                    "text": "文件位置",
+                    "link": "/page/team/water/specifications/position"
+                }
+            ]
+        },
+        {
+            "text": "开发手册",
+            "items": [
+                {
+                    "text": "地图相关",
+                    "link": "/page/team/water/develop/map"
+                },
+                {
+                    "text": "因子相关",
+                    "link": "/page/team/water/develop/factor"
+                },
+                {
+                    "text": "水质相关",
+                    "link": "/page/team/water/develop/water-detail"
+                }
+            ]
+        },
+        {
+            "text": "模版脚手架",
+            "items": [
+                {
+                    "text": "脚手架",
+                    "link": "/page/team/water/template/cli"
+                },
+                {
+                    "text": "基础模版",
+                    "link": "/page/team/water/template/common"
+                },
+                {
+                    "text": "大屏模版",
+                    "link": "/page/team/water/template/screen"
+                },
+                {
+                    "text": "H5模版",
+                    "link": "/page/team/water/template/h5"
+                }
+            ]
+        },
+        {
+            "text": "技术文章",
+            "items": [
+                {
+                    "text": "封装axios拦截器",
+                    "link": "/page/team/water/share/封装axios拦截器"
+                },
+                {
+                    "text": "项目使用vite打包问题解决方案",
+                    "link": "/page/team/water/share/项目使用vite打包问题解决方案"
+                },
+                {
+                    "text": "Vite打包优化",
+                    "link": "/page/team/water/share/Vite打包优化"
+                }
+            ]
+        },
+        {
+            "text": "问题汇总",
+            "items": [
+                {
+                    "text": "地图相关",
+                    "link": "/page/team/water/problem/map"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.fpi-map-location {
+  .fpi-map-icon {
+    margin-left: 8px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  .fpi-location-form {
+    display: flex;
+  }
+
+  .mr8 {
+    margin-right: 8px;
+  }
+}
+
+.fpi-map-dialog .el-dialog__title{
+  /* 粗体/中文 14 中黑 */
+  font-family: "Source Han Sans CN", serif;
+  font-size: 14px!important;
+  color: #303133;
+}

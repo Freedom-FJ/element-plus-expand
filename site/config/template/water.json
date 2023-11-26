@@ -1,0 +1,20 @@
+{
+    "/page/template/water": [
+        {
+            "text": "脚手架",
+            "link": "/page/template/water/cli"
+        },
+        {
+            "text": "基础模版",
+            "link": "/page/template/water/common"
+        },
+        {
+            "text": "大屏模版",
+            "link": "/page/template/water/screen"
+        },
+        {
+            "text": "H5模版",
+            "link": "/page/template/water/h5"
+        }
+    ]
+}

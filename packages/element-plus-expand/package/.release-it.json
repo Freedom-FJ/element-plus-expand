@@ -1,0 +1,15 @@
+{
+    "git": {
+      "commitMessage": "chore: release v${version}",
+      "commit": true,
+      "tag": true,
+      "tagName": "@ued_fpi/element-plus-expand@${version}",
+      "push": true
+    },
+    "github": {
+      "release": true
+    },
+    "npm": {
+      "publish": true
+    }
+  }

@@ -1,0 +1,56 @@
+{
+  "name": "@ued_fpi/element-plus-expand",
+  "version": "0.8.23",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "typings": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./lib/index.js",
+      "import": "./es/index.mjs",
+      "types": "./es/index.d.ts"
+    },
+    "./style": "./es/style.css",
+    "./es": "./es/index.mjs",
+    "./lib": "./lib/index.js",
+    "./es/*.mjs": "./es/*.mjs",
+    "./es/*": "./es/*.mjs",
+    "./lib/*.js": "./lib/*.js",
+    "./lib/*": "./lib/*.js",
+    "./es/*.css": "./es/*.css",
+    "./lib/*.css": "./lib/*.css",
+    "./*": "./*"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "element-plus",
+    "vue3组件库"
+  ],
+  "style": "es/style.css",
+  "sideEffects": [
+    "./es/**/style/*",
+    "./lib/**/style/*",
+    "**/*.css",
+    "es/**/*.css",
+    "lib/**/*.css"
+  ],
+  "author": "马佳辉",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "release": "release-it",
+    "browser": "../browser.sh",
+    "publish": "gulp -f ../component/script/publish/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/572031690/npm-deme"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "6f6c669261c9b40eff4bfb9e5cbad60920324cf6"
+}

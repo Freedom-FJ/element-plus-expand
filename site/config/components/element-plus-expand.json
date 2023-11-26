@@ -1,0 +1,103 @@
+{
+    "/page/component/element-plus-expand": [
+        {
+            "text": "快速开始",
+            "link": "/page/component/element-plus-expand/quickstart"
+        },
+        {
+            "text": "动态 table",
+            "items": [
+
+                {
+                    "text": "表格例子",
+                    "link": "/page/component/element-plus-expand/table/table-demos.md"
+                },
+                {
+                    "text": "自动请求",
+                    "link": "/page/component/element-plus-expand/table/request-demos.md"
+                },
+                {
+                    "text": "文档",
+                    "link": "/page/component/element-plus-expand/table/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "动态 form",
+            "items": [
+                {
+                    "text": "form例子",
+                    "link": "/page/component/element-plus-expand/form/form-demos.md"
+                },
+                {
+                    "text": "文档",
+                    "link": "/page/component/element-plus-expand/form/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "rolling 无限滚动",
+            "link": "/page/component/element-plus-expand/rolling/docs.md"
+        },
+        {
+            "text": "选择组件",
+            "items": [
+                {
+                    "text": "季度选择 (beta)",
+                    "link": "/page/component/element-plus-expand/quarter-picker/docs.md"
+                },
+                {
+                    "text": "季度范围选择 (beta)",
+                    "link": "/page/component/element-plus-expand/quarter-range-picker/docs.md"
+                },
+                {
+                    "text": "年度范围选择 (beta)",
+                    "link": "/page/component/element-plus-expand/year-range-picker/docs.md"
+                },
+                {
+                    "text": "级联面板Tab选择",
+                    "link": "/page/component/element-plus-expand/cascader/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "CronTab公式",
+            "link": "/page/component/element-plus-expand/cron-tab/docs.md"
+        },
+        {
+            "text": "地图",
+            "items": [
+                {
+                    "text": "地图经纬度选择",
+                    "link": "/page/component/element-plus-expand/map-location/docs.md"
+                },
+                {
+                    "text": "地图经纬度",
+                    "link": "/page/component/element-plus-expand/fpi-map/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "进度",
+            "items": [
+                {
+                    "text": "分隔进度组件",
+                    "link": "/page/component/element-plus-expand/grid-progress-bar/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "布局组件",
+            "items": [
+                {
+                    "text": "PC端通用PageLayout",
+                    "link": "/page/component/element-plus-expand/page-layout/docs.md"
+                }
+            ]
+        },
+        {
+            "text": "更新日志",
+            "link": "/page/component/element-plus-expand/changelog"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+include:
+  - project: 'CICD/ci-templates'
+    file: '/Devops.gitlab-ci.yml'
+
+
+variables:
+  # 应用在kubernetes集群中开发环境的命名空间
+  CI_PROJECT_NAME: "fpi-component"
+  KUBERNETES_NAMESPACE: "fpi-ued"
+  NAMESPACE: "fpi"
+  #  REMOTE_REPERTORY：阿里云docker仓库地址
+  REMOTE_REPERTORY: "registry.fpi-inc.site"
+  REMOTE_REPERTORY_USERNAME: fpi
+  REMOTE_REPERTORY_PASSWORD: Fpi@123456
+  #  镜像的name和tag,tag以PIPELINE_ID命名
+  IMAGE_TAG_PIPELINE_ID: "$NAMESPACE/$CI_PROJECT_NAME:$CI_PIPELINE_ID"
+  #  镜像的name和tag,tag以COMMIT_SHA命名
+  IMAGE_TAG_COMMIT_SHA: "$NAMESPACE/$CI_PROJECT_NAME:$CI_COMMIT_SHA"
+  #  镜像的name和tag,tag以COMMIT_TAG命名
+  IMAGE_TAG_COMMIT_TAG: "$NAMESPACE/$CI_PROJECT_NAME:$CI_COMMIT_TAG"
+  KUBERNETES_NAMESPACE_UED: fpi-ued
+  SONAR_LOGIN_TOKEN: 997bf98bf075a25f7b04f6506f43e7b6787a6e12
+
+
+
+
+
+sonar_analyze:
+  stage: pre_build
+  image: $REMOTE_REPERTORY/library/sonar-scanner:3.0.2-with-cache
+  before_script: []
+  script:
+    - sonar-scanner -Dsonar.projectKey=$CI_PROJECT_NAME -Dsonar.sources=. -Dsonar.login=$SONAR_LOGIN_TOKEN
+  # only:
+  #   - branches
+  #   - /^hotfix-.*$/
+  #   - ci
+  except:
+    - tags
+  tags:
+    - x86
+
+
+build_x86_docker_images:
+  stage: build
+  image: registry.fpi-inc.site/library/node-dind:18.16.0-pnpm
+  script:
+    - npm config set registry https://registry.npmmirror.com
+    - npm i pnpm -g
+    - pnpm config set registry https://registry.npmmirror.com
+    - pnpm install --no-frozen-lockfile
+    - pnpm run docs:build
+    - build ./site/.vitepress/dist
+  only:
+    - master  #只有master分支触发push时需要构建
+    - /^hotfix-.*$/
+    - ci
+  except:
+    - tags   #通常是对已经测试通过的镜像打tag，所以不需要再次编译镜像
+  tags:
+    - x86
+
+#发布开发环境
+deploy_ued_env:
+  stage: deploy
+  image: roffe/kubectl:latest
+  script:
+    - mkdir -p /root/.kube/
+    - echo $KUBE_CONFIG |base64 -d > /root/.kube/config
+    - kubectl -n $KUBERNETES_NAMESPACE set image deploy $CI_PROJECT_NAME $CI_PROJECT_NAME=$REMOTE_REPERTORY/$IMAGE_TAG_PIPELINE_ID
+  environment:
+    name: development
+    url: http://ued.fpi-inc.site/$CI_PROJECT_NAME
+  only:
+    - master
+    - /^hotfix-.*$/
+  except:
+    - tags    #在打tag时开发环境不发布
+  allow_failure: true    #开发环境部署失败时不影响整个CI运行结果，以免开发环境出现问题后，代码无法merge到master
+  when: manual
+  tags:
+    - x86
+

@@ -1,0 +1,1815 @@
+{
+    "code": "330100000000",
+    "children": [
+        {
+            "code": "330102000000",
+            "children": [
+                {
+                    "code": "3211",
+                    "id": 659037,
+                    "label": "小留镇",
+                    "administrativeRankName": "",
+                    "parentId": 330102
+                },
+                {
+                    "code": "330102001000",
+                    "id": 659075,
+                    "label": "清波街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330102003000",
+                    "id": 659076,
+                    "label": "湖滨街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330102004000",
+                    "id": 659077,
+                    "label": "小营街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330102008000",
+                    "id": 659078,
+                    "label": "南星街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330102009000",
+                    "id": 659079,
+                    "label": "紫阳街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330102010000",
+                    "id": 659080,
+                    "label": "望江街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330102,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330102,
+            "label": "上城区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330104000000",
+            "children": [
+                {
+                    "code": "330104005000",
+                    "id": 659089,
+                    "label": "凯旋街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104006000",
+                    "id": 659090,
+                    "label": "采荷街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104007000",
+                    "id": 659091,
+                    "label": "闸弄口街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104008000",
+                    "id": 659092,
+                    "label": "四季青街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104009000",
+                    "id": 659093,
+                    "label": "白杨街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104010000",
+                    "id": 659094,
+                    "label": "下沙街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104011000",
+                    "id": 659095,
+                    "label": "彭埠街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104012000",
+                    "id": 659096,
+                    "label": "笕桥街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104013000",
+                    "id": 659097,
+                    "label": "丁兰街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330104014000",
+                    "id": 659098,
+                    "label": "九堡街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330104,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330104,
+            "label": "江干区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330105000000",
+            "children": [
+                {
+                    "code": "330105001000",
+                    "id": 659099,
+                    "label": "米市巷街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105002000",
+                    "id": 659100,
+                    "label": "湖墅街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105003000",
+                    "id": 659101,
+                    "label": "小河街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105004000",
+                    "id": 659102,
+                    "label": "和睦街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105005000",
+                    "id": 659103,
+                    "label": "拱宸桥街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105007000",
+                    "id": 659104,
+                    "label": "大关街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105008000",
+                    "id": 659105,
+                    "label": "上塘街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105009000",
+                    "id": 659106,
+                    "label": "祥符街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105010000",
+                    "id": 659107,
+                    "label": "康桥街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330105011000",
+                    "id": 659108,
+                    "label": "半山街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330105,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330105,
+            "label": "拱墅区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330106000000",
+            "children": [
+                {
+                    "code": "330106002000",
+                    "id": 659109,
+                    "label": "北山街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106004000",
+                    "id": 659110,
+                    "label": "西溪街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106005000",
+                    "id": 659111,
+                    "label": "翠苑街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106007000",
+                    "id": 659112,
+                    "label": "古荡街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106008000",
+                    "id": 659113,
+                    "label": "西湖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106009000",
+                    "id": 659114,
+                    "label": "留下街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106010000",
+                    "id": 659115,
+                    "label": "转塘街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106011000",
+                    "id": 659116,
+                    "label": "蒋村街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106012000",
+                    "id": 659117,
+                    "label": "灵隐街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106013000",
+                    "id": 659118,
+                    "label": "文新街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106109000",
+                    "id": 659119,
+                    "label": "三墩镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330106110000",
+                    "id": 659120,
+                    "label": "双浦镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330106,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330106,
+            "label": "西湖区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330108000000",
+            "children": [
+                {
+                    "code": "330108001000",
+                    "children": [
+                        {
+                            "code": "3301080000001",
+                            "id": 659014,
+                            "label": "共联社区",
+                            "administrativeRankName": "",
+                            "parentId": 659121
+                        }
+                    ],
+                    "id": 659121,
+                    "label": "西兴街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330108,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330108002000",
+                    "children": [
+                        {
+                            "code": "3301080000002",
+                            "id": 659015,
+                            "label": "江二社区",
+                            "administrativeRankName": "",
+                            "parentId": 659122
+                        },
+                        {
+                            "code": "33010800000012",
+                            "id": 659032,
+                            "label": "江一社区",
+                            "administrativeRankName": "",
+                            "parentId": 659122
+                        },
+                        {
+                            "code": "33010802000022",
+                            "id": 659057,
+                            "label": "长河02",
+                            "administrativeRankName": "",
+                            "parentId": 659122
+                        },
+                        {
+                            "code": "330108030000",
+                            "id": 659059,
+                            "label": "长河03",
+                            "administrativeRankName": "",
+                            "parentId": 659122
+                        }
+                    ],
+                    "id": 659122,
+                    "label": "长河街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330108,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330108003000",
+                    "children": [
+                        {
+                            "code": "3301080000003",
+                            "id": 659023,
+                            "label": "之江社区",
+                            "administrativeRankName": "",
+                            "parentId": 659123
+                        }
+                    ],
+                    "id": 659123,
+                    "label": "浦沿街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330108,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330108,
+            "label": "滨江区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330109000000",
+            "children": [
+                {
+                    "code": "311200000000",
+                    "id": 659074,
+                    "label": "北干街道",
+                    "administrativeRankName": "",
+                    "parentId": 330109
+                },
+                {
+                    "code": "330109001000",
+                    "id": 659124,
+                    "label": "城厢街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109002000",
+                    "id": 659125,
+                    "label": "北干街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109003000",
+                    "id": 659126,
+                    "label": "蜀山街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109004000",
+                    "id": 659127,
+                    "label": "新塘街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109005000",
+                    "id": 659128,
+                    "label": "靖江街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109006000",
+                    "id": 659129,
+                    "label": "南阳街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109007000",
+                    "id": 659130,
+                    "label": "义蓬街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109008000",
+                    "id": 659131,
+                    "label": "河庄街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109009000",
+                    "id": 659132,
+                    "label": "新湾街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109010000",
+                    "id": 659133,
+                    "label": "临江街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109011000",
+                    "id": 659134,
+                    "label": "前进街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109012000",
+                    "id": 659135,
+                    "label": "闻堰街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109013000",
+                    "id": 659136,
+                    "label": "宁围街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109014000",
+                    "id": 659137,
+                    "label": "新街街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109100000",
+                    "id": 659138,
+                    "label": "楼塔镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109101000",
+                    "id": 659139,
+                    "label": "河上镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109102000",
+                    "id": 659140,
+                    "label": "戴村镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109103000",
+                    "id": 659141,
+                    "label": "浦阳镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109104000",
+                    "id": 659142,
+                    "label": "进化镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109105000",
+                    "id": 659143,
+                    "label": "临浦镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109106000",
+                    "id": 659144,
+                    "label": "义桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109107000",
+                    "id": 659145,
+                    "label": "所前镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109108000",
+                    "id": 659146,
+                    "label": "衙前镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109113000",
+                    "id": 659147,
+                    "label": "瓜沥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109115000",
+                    "id": 659148,
+                    "label": "益农镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109120000",
+                    "id": 659149,
+                    "label": "党湾镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109401000",
+                    "id": 659150,
+                    "label": "萧山经济技术开发区",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109403000",
+                    "id": 659151,
+                    "label": "萧山商业城",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109501000",
+                    "id": 659152,
+                    "label": "围垦区",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109503000",
+                    "id": 659153,
+                    "label": "红山农场",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330109505000",
+                    "id": 659154,
+                    "label": "萧山钱江世纪城",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330109,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330109,
+            "label": "萧山区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330110000000",
+            "children": [
+                {
+                    "code": "330110002000",
+                    "id": 659251,
+                    "label": "南苑街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110003000",
+                    "id": 659252,
+                    "label": "东湖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110004000",
+                    "id": 659253,
+                    "label": "星桥街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110006000",
+                    "id": 659255,
+                    "label": "乔司街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110007000",
+                    "id": 659256,
+                    "label": "运河街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110008000",
+                    "id": 659257,
+                    "label": "崇贤街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110009000",
+                    "id": 659258,
+                    "label": "仁和街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110010000",
+                    "id": 659259,
+                    "label": "良渚街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110011000",
+                    "id": 659260,
+                    "label": "闲林街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110012000",
+                    "id": 659261,
+                    "label": "仓前街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110013000",
+                    "id": 659262,
+                    "label": "余杭街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110014000",
+                    "id": 659263,
+                    "label": "中泰街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110102000",
+                    "id": 659264,
+                    "label": "塘栖镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110109000",
+                    "id": 659265,
+                    "label": "径山镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110110000",
+                    "id": 659266,
+                    "label": "瓶窑镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110111000",
+                    "id": 659267,
+                    "label": "鸬鸟镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110112000",
+                    "id": 659268,
+                    "label": "百丈镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110113000",
+                    "id": 659269,
+                    "label": "黄湖镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330110005000",
+                    "id": 659254,
+                    "label": "五常街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330110,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330110,
+            "label": "余杭区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330111000000",
+            "children": [
+                {
+                    "code": "330111001000",
+                    "id": 659155,
+                    "label": "富春街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111002000",
+                    "id": 659156,
+                    "label": "春江街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111004000",
+                    "id": 659157,
+                    "label": "鹿山街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111005000",
+                    "id": 659158,
+                    "label": "东洲街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111006000",
+                    "id": 659159,
+                    "label": "银湖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111100000",
+                    "id": 659160,
+                    "label": "万市镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111101000",
+                    "id": 659161,
+                    "label": "洞桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111103000",
+                    "id": 659162,
+                    "label": "渌渚镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111105000",
+                    "id": 659163,
+                    "label": "永昌镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111108000",
+                    "id": 659164,
+                    "label": "里山镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111109000",
+                    "id": 659165,
+                    "label": "常绿镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111110000",
+                    "id": 659166,
+                    "label": "场口镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111111000",
+                    "id": 659167,
+                    "label": "常安镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111112000",
+                    "id": 659168,
+                    "label": "龙门镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111115000",
+                    "id": 659169,
+                    "label": "新登镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111116000",
+                    "id": 659170,
+                    "label": "胥口镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111117000",
+                    "id": 659171,
+                    "label": "大源镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111118000",
+                    "id": 659172,
+                    "label": "灵桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111200000",
+                    "id": 659173,
+                    "label": "新桐乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111201000",
+                    "id": 659174,
+                    "label": "上官乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111204000",
+                    "id": 659175,
+                    "label": "环山乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111205000",
+                    "id": 659176,
+                    "label": "湖源乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111206000",
+                    "id": 659177,
+                    "label": "春建乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330111207000",
+                    "id": 659178,
+                    "label": "渔山乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330111,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330111,
+            "label": "富阳区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330112000000",
+            "children": [
+                {
+                    "code": "330112002000",
+                    "id": 659179,
+                    "label": "玲珑街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112005000",
+                    "id": 659180,
+                    "label": "锦南街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112006000",
+                    "id": 659181,
+                    "label": "锦城街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112007000",
+                    "id": 659182,
+                    "label": "锦北街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112008000",
+                    "id": 659183,
+                    "label": "青山湖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112102000",
+                    "id": 659184,
+                    "label": "高虹镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112103000",
+                    "id": 659185,
+                    "label": "太湖源镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112104000",
+                    "id": 659186,
+                    "label": "於潜镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112106000",
+                    "id": 659187,
+                    "label": "太阳镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112107000",
+                    "id": 659188,
+                    "label": "潜川镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112108000",
+                    "id": 659189,
+                    "label": "昌化镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112109000",
+                    "id": 659190,
+                    "label": "河桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112111000",
+                    "id": 659191,
+                    "label": "湍口镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112112000",
+                    "id": 659192,
+                    "label": "清凉峰镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112113000",
+                    "id": 659193,
+                    "label": "岛石镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112115000",
+                    "id": 659194,
+                    "label": "板桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112116000",
+                    "id": 659195,
+                    "label": "天目山镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330112117000",
+                    "id": 659196,
+                    "label": "龙岗镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330112,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330112,
+            "label": "临安区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330122000000",
+            "children": [
+                {
+                    "code": "330122002000",
+                    "id": 659197,
+                    "label": "旧县街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122003000",
+                    "id": 659198,
+                    "label": "桐君街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122004000",
+                    "id": 659199,
+                    "label": "城南街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122005000",
+                    "id": 659200,
+                    "label": "凤川街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122101000",
+                    "id": 659201,
+                    "label": "富春江镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122102000",
+                    "id": 659202,
+                    "label": "横村镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122109000",
+                    "id": 659203,
+                    "label": "分水镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122110000",
+                    "id": 659204,
+                    "label": "瑶琳镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122112000",
+                    "id": 659205,
+                    "label": "百江镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122113000",
+                    "id": 659206,
+                    "label": "江南镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122201000",
+                    "id": 659207,
+                    "label": "莪山畲族乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122202000",
+                    "id": 659208,
+                    "label": "钟山乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122204000",
+                    "id": 659209,
+                    "label": "新合乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330122210000",
+                    "id": 659210,
+                    "label": "合村乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330122,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330122,
+            "label": "桐庐县",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330127000000",
+            "children": [
+                {
+                    "code": "44558887",
+                    "id": 659031,
+                    "label": "崇安县--4",
+                    "administrativeRankName": "",
+                    "parentId": 330127
+                },
+                {
+                    "code": "330127100000",
+                    "id": 659211,
+                    "label": "千岛湖镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127101000",
+                    "id": 659212,
+                    "label": "文昌镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127102000",
+                    "id": 659213,
+                    "label": "石林镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127103000",
+                    "id": 659214,
+                    "label": "临岐镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127104000",
+                    "id": 659215,
+                    "label": "威坪镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127106000",
+                    "id": 659216,
+                    "label": "姜家镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127107000",
+                    "id": 659217,
+                    "label": "梓桐镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127108000",
+                    "id": 659218,
+                    "label": "汾口镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127109000",
+                    "id": 659219,
+                    "label": "中洲镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127110000",
+                    "id": 659220,
+                    "label": "大墅镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127111000",
+                    "id": 659221,
+                    "label": "枫树岭镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127200000",
+                    "id": 659222,
+                    "label": "里商乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127201000",
+                    "id": 659223,
+                    "label": "金峰乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127202000",
+                    "id": 659224,
+                    "label": "富文乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127203000",
+                    "id": 659225,
+                    "label": "左口乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127205000",
+                    "id": 659226,
+                    "label": "屏门乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127206000",
+                    "id": 659227,
+                    "label": "瑶山乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127208000",
+                    "id": 659228,
+                    "label": "王阜乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127210000",
+                    "id": 659229,
+                    "label": "宋村乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127211000",
+                    "id": 659230,
+                    "label": "鸠坑乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127212000",
+                    "id": 659231,
+                    "label": "浪川乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127214000",
+                    "id": 659232,
+                    "label": "界首乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330127216000",
+                    "id": 659233,
+                    "label": "安阳乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330127,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330127,
+            "label": "淳安县",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330182000000",
+            "children": [
+                {
+                    "code": "330182001000",
+                    "id": 659025,
+                    "label": "新安江街道",
+                    "administrativeRankName": "",
+                    "parentId": 330182
+                },
+                {
+                    "code": "330182002000",
+                    "id": 659026,
+                    "label": "洋溪街道",
+                    "administrativeRankName": "",
+                    "parentId": 330182
+                },
+                {
+                    "code": "330182003000",
+                    "id": 659027,
+                    "label": "更楼街道",
+                    "administrativeRankName": "",
+                    "parentId": 330182
+                },
+                {
+                    "code": "330182101000",
+                    "id": 659028,
+                    "label": "莲花镇",
+                    "administrativeRankName": "",
+                    "parentId": 330182
+                },
+                {
+                    "code": "330182002000",
+                    "id": 659235,
+                    "label": "洋溪街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182003000",
+                    "id": 659236,
+                    "label": "更楼街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182101000",
+                    "id": 659237,
+                    "label": "莲花镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182102000",
+                    "id": 659238,
+                    "label": "乾潭镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182104000",
+                    "id": 659239,
+                    "label": "梅城镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182105000",
+                    "id": 659240,
+                    "label": "杨村桥镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182106000",
+                    "id": 659241,
+                    "label": "下涯镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182107000",
+                    "id": 659242,
+                    "label": "大洋镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182108000",
+                    "id": 659243,
+                    "label": "三都镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182109000",
+                    "id": 659244,
+                    "label": "寿昌镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182110000",
+                    "id": 659245,
+                    "label": "航头镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182111000",
+                    "id": 659246,
+                    "label": "大慈岩镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182112000",
+                    "id": 659247,
+                    "label": "大同镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182113000",
+                    "id": 659248,
+                    "label": "李家镇",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330182202000",
+                    "id": 659249,
+                    "label": "钦堂乡",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330182,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330182,
+            "label": "建德市",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330103000000",
+            "children": [
+                {
+                    "code": "330101000000",
+                    "children": [
+                        {
+                            "code": "55889999666",
+                            "id": 659033,
+                            "label": "测试区划",
+                            "administrativeRankName": "",
+                            "parentId": 330101
+                        }
+                    ],
+                    "id": 330101,
+                    "label": "市辖区",
+                    "administrativeRankName": "县级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 3
+                },
+                {
+                    "code": "330103001000",
+                    "id": 659081,
+                    "label": "长庆街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103002000",
+                    "id": 659082,
+                    "label": "武林街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103003000",
+                    "id": 659083,
+                    "label": "天水街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103005000",
+                    "id": 659084,
+                    "label": "潮鸣街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103006000",
+                    "id": 659085,
+                    "label": "朝晖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103007000",
+                    "id": 659086,
+                    "label": "文晖街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103008000",
+                    "id": 659087,
+                    "label": "东新街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                },
+                {
+                    "code": "330103009000",
+                    "id": 659088,
+                    "label": "石桥街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 330103,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 330103,
+            "label": "下城区",
+            "administrativeRankName": "县级",
+            "parentId": 3301,
+            "administrativeRankCode": 3
+        },
+        {
+            "code": "330113",
+            "children": [
+                {
+                    "code": "330110001000",
+                    "id": 659250,
+                    "label": "临平街道",
+                    "administrativeRankName": "乡级",
+                    "parentId": 659273,
+                    "administrativeRankCode": 4
+                }
+            ],
+            "id": 659273,
+            "label": "临平区",
+            "administrativeRankName": "",
+            "parentId": 3301
+        }
+    ],
+    "id": 3301,
+    "label": "杭州市",
+    "administrativeRankName": "地级",
+    "parentId": 33,
+    "administrativeRankCode": 2
+}

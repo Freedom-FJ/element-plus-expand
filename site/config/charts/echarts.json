@@ -1,0 +1,33 @@
+{
+    "/page/charts/echarts": [
+        {
+            "text": "样例",
+            "items": [
+                {
+                    "text": "折线图",
+                    "link": "/page/charts/echarts/line/"
+                },
+                {
+                    "text": "柱形图",
+                    "link": "/page/charts/echarts/bar/"
+                },
+                {
+                    "text": "饼图",
+                    "link": "/page/charts/echarts/pie/"
+                },
+                {
+                    "text": "k线",
+                    "link": "/page/charts/echarts/kline/"
+                },
+                {
+                    "text": "油表",
+                    "link": "/page/charts/echarts/gauge/"
+                },
+                {
+                    "text": "混合",
+                    "link": "/page/charts/echarts/mix/"
+                }
+            ]
+        }
+    ]
+}

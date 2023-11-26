@@ -1,0 +1,28 @@
+{
+  "name": "@element-plus-expand/components",
+  "version": "1.0.15",
+  "private": true,
+  "description": "",
+  "main": "./index.ts",
+  "scripts": {
+    "build": "vite build && vue-tsc -p tsconfig.declaration.json",
+    "build:types": "vue-tsc -p tsconfig.declaration.json",
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "browser": "../browser.sh",
+    "publish": "gulp -f ./script/publish/index.ts && npm run browser"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "1.53.0",
+    "sass-loader": "13.0.0"
+  },
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.29.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

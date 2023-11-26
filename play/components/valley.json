@@ -1,0 +1,1243 @@
+[
+    {
+        "code": "GA",
+        "children": [
+            {
+                "code": "GAAK",
+                "children": [
+                    {
+                        "code": "GAAA202",
+                        "children": [
+                            {
+                                "code": "20230606",
+                                "id": 70707376,
+                                "label": "20230606",
+                                "waterType": "A",
+                                "parentId": 70707056
+                            }
+                        ],
+                        "id": 70707056,
+                        "label": "河段-2",
+                        "waterType": "G",
+                        "parentId": 6060101
+                    },
+                    {
+                        "code": "20210518",
+                        "id": 70707329,
+                        "label": "测试20210518",
+                        "waterType": "A",
+                        "parentId": 6060101
+                    },
+                    {
+                        "code": "1",
+                        "id": 70707368,
+                        "label": "1",
+                        "waterType": "A",
+                        "parentId": 6060101
+                    }
+                ],
+                "id": 6060101,
+                "label": "钱塘江",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAV",
+                "children": [
+                    {
+                        "code": "2",
+                        "id": 70707369,
+                        "label": "11",
+                        "waterType": "A",
+                        "parentId": 6060102
+                    }
+                ],
+                "id": 6060102,
+                "label": "清溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA",
+                "children": [
+                    {
+                        "code": "GAAA2",
+                        "children": [
+                            {
+                                "code": "GAAA201",
+                                "id": 70707055,
+                                "label": "河段1",
+                                "waterType": "A",
+                                "parentId": 70707054
+                            },
+                            {
+                                "code": "GAAA203",
+                                "id": 70707057,
+                                "label": "河段3",
+                                "waterType": "A",
+                                "parentId": 70707054
+                            },
+                            {
+                                "code": "GAAA205",
+                                "id": 70707059,
+                                "label": "河段5",
+                                "waterType": "A",
+                                "parentId": 70707054
+                            },
+                            {
+                                "code": "GAAA211",
+                                "id": 70707065,
+                                "label": "河段11",
+                                "waterType": "A",
+                                "parentId": 70707054
+                            }
+                        ],
+                        "id": 70707054,
+                        "label": "富春江干流",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA02",
+                        "id": 70707067,
+                        "label": "河段2",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA04",
+                        "id": 70707069,
+                        "label": "河段4",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA06",
+                        "id": 70707071,
+                        "label": "河段6",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA07",
+                        "id": 70707072,
+                        "label": "河段7",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA08",
+                        "id": 70707073,
+                        "label": "河段8",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA09",
+                        "id": 70707074,
+                        "label": "河段9",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA10",
+                        "id": 70707075,
+                        "label": "河段10",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA12",
+                        "id": 70707077,
+                        "label": "河段12",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA13",
+                        "id": 70707078,
+                        "label": "河段13",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA14",
+                        "id": 70707079,
+                        "label": "河段14",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "GAAA15",
+                        "id": 70707080,
+                        "label": "河段15",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    },
+                    {
+                        "code": "22222",
+                        "id": 70707371,
+                        "label": "1",
+                        "waterType": "A",
+                        "parentId": 60601001
+                    }
+                ],
+                "id": 60601001,
+                "label": "富春江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAC",
+                "id": 60601003,
+                "label": "北苕溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAD",
+                "children": [
+                    {
+                        "code": "cccccc",
+                        "id": 70707358,
+                        "label": "测试水库",
+                        "waterType": "B",
+                        "parentId": 60601004
+                    }
+                ],
+                "id": 60601004,
+                "label": "汶溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAE",
+                "id": 60601005,
+                "label": "车岙港",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAF",
+                "id": 60601006,
+                "label": "浙大护校河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAG",
+                "id": 60601007,
+                "label": "白溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAH",
+                "id": 60601008,
+                "label": "东塘河",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAJ",
+                "id": 60601009,
+                "label": "南苕溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAL",
+                "id": 60601011,
+                "label": "大源溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAM",
+                "children": [
+                    {
+                        "code": "DSK001",
+                        "id": 70707361,
+                        "label": "大水库",
+                        "waterType": "B",
+                        "parentId": 60601012
+                    }
+                ],
+                "id": 60601012,
+                "label": "壶源溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAN",
+                "id": 60601013,
+                "label": "长兴塘",
+                "waterType": "G",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAP",
+                "id": 60601014,
+                "label": "昌化江",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAQ",
+                "id": 60601015,
+                "label": "永兴江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAR",
+                "id": 60601016,
+                "label": "下沈港",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAS",
+                "id": 60601017,
+                "label": "蒲峰港",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAT",
+                "id": 60601018,
+                "label": "海游港",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAU",
+                "id": 60601019,
+                "label": "凫溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAW",
+                "id": 60601021,
+                "label": "白溪",
+                "parentId": 60601
+            },
+            {
+                "code": "GABA",
+                "id": 60601022,
+                "label": "大塘港",
+                "parentId": 60601
+            },
+            {
+                "code": "GABB",
+                "id": 60601023,
+                "label": "东陈河",
+                "parentId": 60601
+            },
+            {
+                "code": "GABC",
+                "id": 60601024,
+                "label": "淡港",
+                "parentId": 60601
+            },
+            {
+                "code": "GABD",
+                "id": 60601025,
+                "label": "枫溪",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "0003",
+                "children": [
+                    {
+                        "code": "000301",
+                        "id": 70707047,
+                        "label": "浦阳江-义桥段",
+                        "waterType": "A",
+                        "parentId": 70707046
+                    },
+                    {
+                        "code": "000302",
+                        "id": 70707048,
+                        "label": "浦阳江义桥-临浦段",
+                        "waterType": "A",
+                        "parentId": 70707046
+                    }
+                ],
+                "id": 70707046,
+                "label": "浦阳江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "SJH",
+                "id": 70707081,
+                "label": "十甲河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "XJH",
+                "id": 70707082,
+                "label": "许家河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "MHWH",
+                "id": 70707083,
+                "label": "庙后王河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "XPH",
+                "id": 70707084,
+                "label": "新浦河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "YJH",
+                "id": 70707085,
+                "label": "永久河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "JSH",
+                "id": 70707086,
+                "label": "苋浦河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "SSH",
+                "id": 70707087,
+                "label": "输水河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "SDH",
+                "id": 70707088,
+                "label": "时代河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GJH",
+                "id": 70707089,
+                "label": "高教河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "TLH",
+                "id": 70707090,
+                "label": "铁路河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "SBH",
+                "id": 70707091,
+                "label": "沙地内河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "LTH",
+                "id": 70707092,
+                "label": "龙塘河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "BTH",
+                "id": 70707093,
+                "label": "北塘河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "FQH",
+                "id": 70707094,
+                "label": "风情河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "JFH",
+                "id": 70707095,
+                "label": "解放河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GH",
+                "children": [
+                    {
+                        "code": "XXHH",
+                        "id": 70707097,
+                        "label": "西兴后河",
+                        "waterType": "A",
+                        "parentId": 70707096
+                    }
+                ],
+                "id": 70707096,
+                "label": "官河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "HYXZH",
+                "id": 70707098,
+                "label": "花园徐直河",
+                "waterType": "G",
+                "parentId": 60601
+            },
+            {
+                "code": "1_2",
+                "id": 70707186,
+                "label": "富春江水库",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA3",
+                "id": 70707201,
+                "label": "分水江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAA1",
+                "id": 70707202,
+                "label": "东苕溪干流",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAA3",
+                "id": 70707203,
+                "label": "新安江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA5",
+                "id": 70707205,
+                "label": "沿山河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA7",
+                "id": 70707207,
+                "label": "东河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA8",
+                "id": 70707208,
+                "label": "中河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA28",
+                "id": 70707213,
+                "label": "西环河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA37",
+                "id": 70707222,
+                "label": "武强溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA40",
+                "id": 70707223,
+                "label": "中苕溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA41",
+                "id": 70707224,
+                "label": "萧曹运河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA42",
+                "id": 70707225,
+                "label": "昌北溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA43",
+                "id": 70707226,
+                "label": "幸福河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA44",
+                "id": 70707227,
+                "label": "上塘河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA45",
+                "id": 70707228,
+                "label": "寿昌江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA46",
+                "id": 70707229,
+                "label": "梓桐源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA47",
+                "id": 70707230,
+                "label": "绿渚江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA48",
+                "id": 70707231,
+                "label": "京杭运河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA49",
+                "id": 70707232,
+                "label": "清渚港",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA51",
+                "id": 70707233,
+                "label": "南门江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA52",
+                "id": 70707234,
+                "label": "兰江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA53",
+                "id": 70707235,
+                "label": "马溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA54",
+                "id": 70707236,
+                "label": "永胜港",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA55",
+                "id": 70707237,
+                "label": "锦溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA56",
+                "id": 70707238,
+                "label": "上沙河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA57",
+                "id": 70707239,
+                "label": "湘湖",
+                "waterType": "G",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA58",
+                "id": 70707240,
+                "label": "一号渠",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA59",
+                "id": 70707241,
+                "label": "瑶山溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA60",
+                "id": 70707242,
+                "label": "秋溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA61",
+                "id": 70707243,
+                "label": "大鱼河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA64",
+                "id": 70707246,
+                "label": "梅林溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA65",
+                "id": 70707247,
+                "label": "天目溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA66",
+                "id": 70707248,
+                "label": "灵溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA67",
+                "id": 70707249,
+                "label": "横溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA69",
+                "id": 70707251,
+                "label": "西环河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA70",
+                "id": 70707252,
+                "label": "诸家溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA71",
+                "id": 70707253,
+                "label": "樟村溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA72",
+                "id": 70707254,
+                "label": "贴沙河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA73",
+                "id": 70707255,
+                "label": "新开河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA74",
+                "id": 70707256,
+                "label": "白马溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA78",
+                "id": 70707259,
+                "label": "乘风源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA79",
+                "id": 70707260,
+                "label": "东苕溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA80",
+                "id": 70707261,
+                "label": "郁川",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA81",
+                "id": 70707262,
+                "label": "龙溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA82",
+                "id": 70707263,
+                "label": "石塘坑溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA83",
+                "id": 70707264,
+                "label": "清平源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA84",
+                "id": 70707265,
+                "label": "太平源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA85",
+                "id": 70707266,
+                "label": "东源港",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA88",
+                "id": 70707267,
+                "label": "兰川溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA89",
+                "id": 70707268,
+                "label": "秋源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA90",
+                "id": 70707269,
+                "label": "千岛湖西支流",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA91",
+                "id": 70707270,
+                "label": "山后源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA92",
+                "id": 70707271,
+                "label": "龙门溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA93",
+                "id": 70707272,
+                "label": "凤林港",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA94",
+                "id": 70707273,
+                "label": "运河支流",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA97",
+                "id": 70707276,
+                "label": "新华河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA98",
+                "id": 70707277,
+                "label": "月雅河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA99",
+                "id": 70707278,
+                "label": "银沙河",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA100",
+                "id": 70707279,
+                "label": "青山水库",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA101",
+                "id": 70707280,
+                "label": "南渠",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA102",
+                "id": 70707281,
+                "label": "千岛湖东支流",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA103",
+                "id": 70707282,
+                "label": "桃林源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA104",
+                "id": 70707283,
+                "label": "西小江",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA105",
+                "id": 70707284,
+                "label": "和睦港",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA106",
+                "id": 70707285,
+                "label": "北渠",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA109",
+                "id": 70707287,
+                "label": "六都源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA110",
+                "id": 70707288,
+                "label": "蔗川",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA111",
+                "id": 70707289,
+                "label": "横塘源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA112",
+                "id": 70707290,
+                "label": "孟坑源",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAAA113",
+                "id": 70707291,
+                "label": "莲花溪",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "GAA2",
+                "children": [
+                    {
+                        "code": "0001",
+                        "id": 70707041,
+                        "label": "京杭运河（江南运河）",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA4",
+                        "id": 70707204,
+                        "label": "古新河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA6",
+                        "id": 70707206,
+                        "label": "德胜河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA9",
+                        "id": 70707209,
+                        "label": "莫婆桥河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA25",
+                        "id": 70707210,
+                        "label": "瓦窑头港",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA26",
+                        "id": 70707211,
+                        "label": "热水河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA27",
+                        "id": 70707212,
+                        "label": "虾龙圩河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA29",
+                        "id": 70707214,
+                        "label": "小河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA30",
+                        "id": 70707215,
+                        "label": "五会港",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA31",
+                        "id": 70707216,
+                        "label": "东新河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA32",
+                        "id": 70707217,
+                        "label": "红西河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA33",
+                        "id": 70707218,
+                        "label": "杜家桥河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA34",
+                        "id": 70707219,
+                        "label": "西湖漾河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA35",
+                        "id": 70707220,
+                        "label": "姚家坝河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA36",
+                        "id": 70707221,
+                        "label": "红建河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA62",
+                        "id": 70707244,
+                        "label": "庙桥港",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA63",
+                        "id": 70707245,
+                        "label": "长浜河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA68",
+                        "id": 70707250,
+                        "label": "育英河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA75",
+                        "id": 70707257,
+                        "label": "隽家塘河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA77",
+                        "id": 70707258,
+                        "label": "陈家桥河",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA95",
+                        "id": 70707274,
+                        "label": "赵家浜",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA96",
+                        "id": 70707275,
+                        "label": "六塘汶漾",
+                        "waterType": "A",
+                        "parentId": 70707292
+                    },
+                    {
+                        "code": "GAAA107",
+                        "id": 70707286,
+                        "label": "丁桥新城二号港",
+                        "waterType": "G",
+                        "parentId": 70707292
+                    }
+                ],
+                "id": 70707292,
+                "label": "运河水系",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "111",
+                "id": 70707318,
+                "label": "干流",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "xianlin",
+                "id": 70707328,
+                "label": "闲林水库",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "ABCDEFG",
+                "id": 70707357,
+                "label": "西湖",
+                "waterType": "G",
+                "parentId": 60601
+            },
+            {
+                "code": "GAA5",
+                "id": 70707359,
+                "label": "千岛湖",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "GHB",
+                "id": 70707362,
+                "label": "测试",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "CSSK",
+                "id": 70707363,
+                "label": "测试水库",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "SK",
+                "id": 70707364,
+                "label": "测试水库名称",
+                "waterType": "B",
+                "parentId": 60601
+            },
+            {
+                "code": "wwwww",
+                "id": 70707365,
+                "label": "wwww",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "zyhd",
+                "id": 70707367,
+                "label": "重要河道",
+                "waterType": "A",
+                "parentId": 60601
+            },
+            {
+                "code": "12",
+                "children": [
+                    {
+                        "code": "20221024test",
+                        "id": 70707374,
+                        "label": "20221024测试1",
+                        "waterType": "A",
+                        "parentId": 70707373
+                    },
+                    {
+                        "code": "sfdfsss",
+                        "id": 70707375,
+                        "label": "ddddddddd",
+                        "waterType": "A",
+                        "parentId": 70707373
+                    }
+                ],
+                "id": 70707373,
+                "label": "111",
+                "waterType": "A",
+                "parentId": 60601
+            }
+        ],
+        "id": 60601,
+        "label": "杭州水系",
+        "waterType": "A",
+        "parentId": 6
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "/page/template/public": [
+        {
+            "text": "脚手架",
+            "link": "/page/template/public/cli"
+        },
+        {
+            "text": "vue3模版",
+            "link": "/page/template/public/common"
+        }
+    ]
+}
