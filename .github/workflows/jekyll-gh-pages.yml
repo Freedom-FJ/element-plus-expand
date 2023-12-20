@@ -6,7 +6,7 @@ on:
       - main
       
 # 环境变量
-with:
+env:
   # GitHub 用户名
   GH_USERNAME: Freedom-FJ
   # commit 时使用的 Email
@@ -38,8 +38,10 @@ jobs:
       - name: Build site
         run: pnpm run docs:build
 
-      - name: Deploy docs
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_dir: ./site/.vitepress/dist
+          # 指定前面准备的 token
+          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          PUBLISH_BRANCH: main
+          PUBLISH_DIR: ./site/.vitepress/dist
