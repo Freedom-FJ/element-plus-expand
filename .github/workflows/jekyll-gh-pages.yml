@@ -4,6 +4,17 @@ on:
   push:
     branches:
       - main
+      
+# 环境变量
+env:
+  # GitHub 用户名
+  GH_USERNAME: Freedom-FJ
+  # commit 时使用的 Email
+  GH_EMAIL: 572031690@qq.com
+  # 部署 GitHub Pages 的仓库，格式：用户名/仓库名
+  GH_REPO: Freedom-FJ/572031690@qq.com
+  # 部署 GitHub Pages 的仓库的分支名
+  GH_BRANCH: main
 
 jobs:
   build-and-deploy:
@@ -30,5 +41,5 @@ jobs:
       - name: Deploy docs
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./site/.vitepress/dist
