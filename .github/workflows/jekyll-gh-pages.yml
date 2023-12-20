@@ -5,20 +5,12 @@ on:
     branches:
       - main
       
-# 环境变量
-env:
-  # GitHub 用户名
-  GH_USERNAME: Freedom-FJ
-  # commit 时使用的 Email
-  GH_EMAIL: 572031690@qq.com
-  # 部署 GitHub Pages 的仓库，格式：用户名/仓库名
-  GH_REPO: Freedom-FJ/572031690@qq.com
-  # 部署 GitHub Pages 的仓库的分支名
-  GH_BRANCH: main
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
 
     steps:
       - name: Checkout repository
@@ -42,6 +34,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           # 指定前面准备的 token
-          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: main
           PUBLISH_DIR: ./site/.vitepress/dist
