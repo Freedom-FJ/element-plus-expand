@@ -11,9 +11,9 @@ import demoblock from './components/demoblock'
 export default {
     // srcDir: './',
     // outDir: './docs',
-    base: '/fpi-component',
+    base: '/element-plus-expand',
     lang: 'zh-CN',
-    title: 'fpi-component', // 标题
+    title: 'element-plus-expand', // 标题
     description: 'ued前端开发最新技术集网站', // 描述
     lastUpdated: true, // 上次更新时间
     markdown: {
@@ -45,7 +45,7 @@ export default {
         // ],
         // 底部信息栏
         footer: {
-            message: 'fpi-component',
+            message: 'element-plus-expand',
             copyright: '文档搭建 © 2023-present 马佳辉'
         },
         // 广告栏
