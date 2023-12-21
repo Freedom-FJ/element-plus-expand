@@ -33,7 +33,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: main
           publish_dir: ./site/.vitepress/dist
           allow_empty_commit: true
