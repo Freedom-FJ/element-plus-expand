@@ -138,7 +138,7 @@ pnpm run docs:build
 `vite build` ，`tsconfig`，`gulp`运行 `element-plus-expand/component/script/build/index.ts`   
 分别对应： js文件打包，ts类型打包和 gulp操作css文件打包，ts文件的拷贝，组件原依赖导入文件。
 ### 2.fpiELementPlusResolver
-这是一个自动导入插件用于引入自动按需引入 `element-plus-expand` 文件，以及解决相关 `element-plus` 组件的样式引入问题，[响应使用请看此处](http://ued.fpi-inc.site/fpi-component/page/component/element-plus-expand/quickstart.html#_2-%E5%8A%A8%E6%80%81%E6%8C%89%E9%9C%80%E5%BC%95%E5%85%A5)  
+这是一个自动导入插件用于引入自动按需引入 `element-plus-expand` 文件，以及解决相关 `element-plus` 组件的样式引入问题，[响应使用请看此处](https://freedom-fj.github.io/element-plus-expand/page/component/element-plus-expand/quickstart.html#_2-%E5%8A%A8%E6%80%81%E6%8C%89%E9%9C%80%E5%BC%95%E5%85%A5)  
 所有组件必须以 `fpi-el-` 开头命名，只有一下开头的才会被组件识别, 并且相印的element-plus组件样式依赖需要在 `packages/element-plus-expand/component/resolve/dic.ts`内书写对应的字典文件，这样打包的时候就会自动打包出响应的导入文件。
 
 ## 五、文档站点

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: fpi-component
+  name: element-plus-expand
   text: 信息化前端开发者平台
   tagline: 我们有element-plus， element-ui，uview，vant扩展组件库，vue3多端模版，前端脚手架，地图样例，echarts样例等等，带你走近信息化的前端技术栈
   image:
@@ -26,7 +26,7 @@ hero:
       link: /page/template/public/cli
     - theme: alt
       text: 在GitLab上查看
-      link: https://git.fpi-inc.site/product/ued-products/fpi-component
+      link: https://git.fpi-inc.site/product/ued-products/element-plus-expand
 features:
   - icon: ⚡️
     title: vite+TypeScript+Vite

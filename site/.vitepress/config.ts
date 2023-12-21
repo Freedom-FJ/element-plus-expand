@@ -25,7 +25,7 @@ export default {
         }
     },
     head: [
-        ['link', { rel: 'shortcut icon', href: '/fpi-component/images/layer.ico', type: 'image/x-icon' }],
+        ['link', { rel: 'shortcut icon', href: '/element-plus-expand/images/layer.ico', type: 'image/x-icon' }],
         ['script', { src: 'https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/lottie-web/5.8.1/lottie_svg.js' }],
         ['script', { src: 'https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/highcharts/9.3.3/highcharts.min.js' }],
         ['script', { src: 'https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/highcharts/9.3.3/highcharts-3d.min.js' }],

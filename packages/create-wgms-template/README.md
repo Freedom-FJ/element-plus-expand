@@ -12,5 +12,5 @@
 
 ## 官网地址
 
-[@ued_fpi/create-wgms-template](http://ued.fpi-inc.site/fpi-component/page/template/water/cli.html)
+[@ued_fpi/create-wgms-template](http://ued.fpi-inc.site/element-plus-expand/page/template/water/cli.html)
 

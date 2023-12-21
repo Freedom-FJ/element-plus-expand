@@ -158,7 +158,7 @@ import wind_direction from './images/wind_direction.svg'
 > 2. 属性，方法，事件，插槽等。
 > 3. 作者,请使用 ` ContributorView ` 组件， 同样也需要使用 ` ```vue ` 包裹。
 
-[点击查看readme示例文件](http://ued.fpi-inc.site/fpi-component/sreenDemo.md)
+[点击查看readme示例文件](http://ued.fpi-inc.site/element-plus-expand/sreenDemo.md)
 
 ## 文档贡献
 

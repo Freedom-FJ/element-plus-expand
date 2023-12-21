@@ -7,7 +7,7 @@
         <!-- 组件展示 -->
         <div class="demo-slot">
             <div v-if="iframe" ref="slotWrapper" v-loading="iframeLoading">
-                <iframe src="/fpi-component/demo/iframe.html?iframeDom" frameBorder="0" :height="iframeHeight" :width="iframeWidth" />
+                <iframe src="/element-plus-expand/demo/iframe.html?iframeDom" frameBorder="0" :height="iframeHeight" :width="iframeWidth" />
             </div>
             <slot v-else-if="hasSlot" />
             <component :is="demoSlot" v-else-if="codePath" />
